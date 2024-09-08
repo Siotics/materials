@@ -1,0 +1,10 @@
+{
+  "nativeMenus": false,
+  "textFontFamily": "Arial",
+  "cssTheme": "",
+  "accentColor": "",
+  "theme": "system",
+  "enabledCssSnippets": [
+    "Code Block (nowrap)"
+  ]
+}
