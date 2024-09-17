@@ -1,4 +1,3 @@
-
 > [!info]+ Download Hal Berikut ini
 > - [Git](https://git-scm.com/download)
 > - [Obsidian](https://obsidian.md/download)
