@@ -11,9 +11,16 @@
 	- **FYI**: Vault adalah nama lain dari Folder.
 4. Cari lokasi Repository setelah di-Clone atau diunduh kemudian.
 5. Klik Folder Repository kemudian `Select Folder`.
+6. Done :3
 
 # Aturan
 - Commit dan Push Repository setelah menambah perubahaan.
+	- Gunakan git source control (berada di bagian icon kiri)
+	- Akan muncul control panel di sidebar kanan.
+	- Klik icon `+` untuk Stage (`git add`)
+	- Setelah itu, klik icon checklist untuk commit.
+	- Kemudian klik icon "upload panah ke atas" (Push)
+	- Untuk mendapat update dari remote repository (Github), klik icon "upload panah ke bawah" (Pull)
 - Merge conflict YNTKTS.
 ___
 # Fungsi Folder
