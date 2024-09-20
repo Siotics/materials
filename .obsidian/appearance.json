@@ -1,0 +1,13 @@
+{
+  "nativeMenus": false,
+  "textFontFamily": "JetBrains Mono NL",
+  "cssTheme": "",
+  "accentColor": "",
+  "theme": "system",
+  "enabledCssSnippets": [
+    "Code Block (nowrap)",
+    "jetbrains_font"
+  ],
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "JetBrains Mono NL"
+}
