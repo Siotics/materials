@@ -35,6 +35,8 @@ terhubung
 tombol
 terbaca
 tambahan
+tambahkan
+terdiri
 date
 de
 dF
@@ -69,6 +71,7 @@ dibaca
 down
 ditekan
 diam
+ditulis
 now
 nZ
 nf
@@ -115,6 +118,9 @@ Menambah
 Merge
 Memiliki
 Memutar
+Manage
+Motor
+Modul
 DD
 Download
 DB
@@ -128,6 +134,7 @@ Digital
 Dapat
 Digunakan
 Ditandai
+DC
 HH
 Hal
 HUc
@@ -187,6 +194,10 @@ memberikan
 menyesuaikan
 memerlukan
 memastikan
+menghemat
+menulis
+menggerakkan
+memutar
 await
 aN
 aE
@@ -210,6 +221,7 @@ fY
 fi
 fading
 format
+fitur
 rename
 resource
 rz
@@ -224,6 +236,8 @@ repository
 remote
 rentang
 resistor
+robotika
+robot
 cursor
 ci
 cd
@@ -247,6 +261,7 @@ cycle
 cahayanya
 cahaya
 cukup
+contohnya
 Berikut
 BVA
 Bf
@@ -279,6 +294,7 @@ icon
 itu
 intensitas
 idle
+ingin
 JFIF
 Ju
 Jwi
@@ -303,6 +319,10 @@ Commit
 Catatan
 Code
 Contoh
+Cukup
+Contohnya
+Control
+Circuit
 oq
 odt
 oz
@@ -312,6 +332,8 @@ opsi
 otomatis
 on
 off
+oleh
+orang
 ST
 SU
 Sv
@@ -325,6 +347,10 @@ Sensor
 Secara
 Salah
 Saat
+Sketch
+Search
+Servo
+Sebuah
 Es
 Ec
 En
@@ -364,6 +390,7 @@ banyak
 berbeda
 beda
 bawaan
+bukan
 zG
 ze
 zZ
@@ -433,6 +460,11 @@ status
 suhu
 sering
 semakin
+sudah
+servo
+sensor
+selesai
+sampai
 kx
 kkr
 ktd
@@ -473,6 +505,8 @@ kontrol
 keran
 knob
 kabel
+kendaraan
+kerja
 lu
 lZdZ
 lpPE
@@ -491,6 +525,9 @@ listrik
 lampu
 lamanya
 luar
+library
+lengan
+lebar
 wot
 wC
 wc
@@ -534,6 +571,10 @@ panah
 papan
 pots
 perlu
+panjang
+perputarannya
+projek
+persendian
 Vw
 VP
 Vo
@@ -559,6 +600,7 @@ gm
 gelap
 git
 ground
+gunakan
 Pc
 PY
 Pj
@@ -579,6 +621,9 @@ Pull
 Pin
 Peredupan
 Potentiometer
+Pergi
+Posisi
+Perputaran
 ZHPK
 Zl
 Zf
@@ -613,6 +658,10 @@ IK
 InW
 Ini
 INPUT
+Instalasi
+IDE
+Include
+Install
 KX
 Kk
 KHl
@@ -629,6 +678,8 @@ Kemudian
 Kerja
 Kamu
 Kebalikan
+Kumpulan
+Kita
 jT
 jqA
 jr
@@ -637,6 +688,7 @@ jCK
 jv
 jKmn
 jadi
+jenis
 WQ
 WiEZ
 WC
@@ -666,6 +718,7 @@ NX
 ND
 Nilai
 NOTE
+Namun
 Tyk
 Tj
 Ty
@@ -706,6 +759,7 @@ FUg
 Fungsi
 FYI
 Folder
+Fungsinya
 GL
 Gi
 GM
@@ -722,6 +776,7 @@ GUI
 Gunakan
 Github
 GND
+Gearbox
 Oqil
 OB
 OJw
@@ -752,4 +807,6 @@ LED
 Loop
 LOW
 Lamanya
+Library
+Libraries
 Untuk

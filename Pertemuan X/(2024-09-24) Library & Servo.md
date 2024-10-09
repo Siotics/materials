@@ -1,7 +1,7 @@
 ---
 tags:
   - X
-tanggal: 2024-09-29
+tanggal: 2024-09-24
 cssclasses:
   - center-images
 ---
