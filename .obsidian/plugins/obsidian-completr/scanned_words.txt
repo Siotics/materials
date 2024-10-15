@@ -157,6 +157,7 @@ HIGH
 Hanya
 Hueee
 HC
+Hertz
 mm
 mY
 mb
@@ -248,6 +249,7 @@ fi
 fading
 format
 fitur
+frekuensi
 rename
 resource
 rz
@@ -730,6 +732,7 @@ Kebalikan
 Kumpulan
 Kita
 Kecepatan
+Kilo
 jT
 jqA
 jr
@@ -871,3 +874,4 @@ Libraries
 Lama
 Untuk
 Ultrasonic
+Ultrasonik
