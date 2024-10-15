@@ -9,6 +9,7 @@ ___
 
 # Cara Kerja
 - Sensor untuk mengukur jarak menggunakan gelombang ultrasonik.
+- Gelombang Ultrasonik memiliki frekuensi lebih dari 20.000 Hertz (20 Kilo Hertz)
 - Sensor ini bekerja layaknya **Sonar**:
 	- Sensor memancarkan gelombang ultrasonik.
 	- Gelombang memantul pada objek.
@@ -78,7 +79,7 @@ digitalWrite(triggerPin, LOW);
 - `pulseIn` digunakan untuk menghitung berapa lama `echoPin` dalam kondisi HIGH (nyala).
 - Ketika Transmitter mengeluarkan gelombang ultrasonik, `echoPin` berada dalam kondisi HIGH.
 - Kemudian, ketika gelombang ultrasonik telah ditangkap oleh Receiver, `echoPin` dalam kondisi LOW.
-- Lama `echoPin` dalam kondisi high akan disimpan dalam variabel `duration` (waktu/durasi).
+- Lama `echoPin` dalam kondisi high akan disimpan dalam variabel `duration` (variabel waktu atau durasi).
 ```c
 duration = pulseIn(echoPin, HIGH);
 ```

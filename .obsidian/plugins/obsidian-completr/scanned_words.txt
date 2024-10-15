@@ -37,6 +37,7 @@ terbaca
 tambahan
 tambahkan
 terdiri
+tipe
 date
 de
 dF
@@ -72,6 +73,13 @@ down
 ditekan
 diam
 ditulis
+dipancarkan
+dua
+dihitung
+diperlukan
+ditangkap
+disimpan
+durasi
 now
 nZ
 nf
@@ -88,6 +96,7 @@ nilai
 negatif
 nama
 nyalakan
+nyala
 YYYY
 Yj
 YhZU
@@ -121,6 +130,10 @@ Memutar
 Manage
 Motor
 Modul
+Memancarkan
+Mendeteksi
+Mengukur
+Matikan
 DD
 Download
 DB
@@ -143,6 +156,7 @@ Ht
 HIGH
 Hanya
 Hueee
+HC
 mm
 mY
 mb
@@ -198,6 +212,16 @@ menghemat
 menulis
 menggerakkan
 memutar
+mengukur
+memancarkan
+memantul
+menghitung
+mikrodetik
+menstabilkan
+memberi
+membutuhkan
+menghasilkan
+mengeluarkan
 await
 aN
 aE
@@ -215,6 +239,8 @@ alih
 analogWrite
 air
 aktifkan
+antar
+anggap
 file
 fU
 fY
@@ -238,6 +264,8 @@ rentang
 resistor
 robotika
 robot
+rumus
+refresh
 cursor
 ci
 cd
@@ -300,6 +328,7 @@ Ju
 Jwi
 Jw
 Jika
+Jarak
 Qa
 QE
 QJ
@@ -334,6 +363,7 @@ on
 off
 oleh
 orang
+objek
 ST
 SU
 Sv
@@ -351,6 +381,8 @@ Sketch
 Search
 Servo
 Sebuah
+Sonar
+SR
 Es
 Ec
 En
@@ -358,6 +390,7 @@ EN
 Ek
 Ep
 Extensions
+Echo
 bI
 bk
 bo
@@ -391,6 +424,10 @@ berbeda
 beda
 bawaan
 bukan
+bekerja
+balik
+benda
+berapa
 zG
 ze
 zZ
@@ -465,6 +502,8 @@ servo
 sensor
 selesai
 sampai
+suara
+setidaknya
 kx
 kkr
 ktd
@@ -507,6 +546,7 @@ knob
 kabel
 kendaraan
 kerja
+kembali
 lu
 lZdZ
 lpPE
@@ -528,6 +568,7 @@ luar
 library
 lengan
 lebar
+layaknya
 wot
 wC
 wc
@@ -550,6 +591,7 @@ hidup
 hal
 hanya
 hambatan
+high
 pk
 pO
 pA
@@ -575,6 +617,9 @@ panjang
 perputarannya
 projek
 persendian
+pantulan
+per
+pemancar
 Vw
 VP
 Vo
@@ -601,6 +646,7 @@ gelap
 git
 ground
 gunakan
+gelombang
 Pc
 PY
 Pj
@@ -624,6 +670,8 @@ Potentiometer
 Pergi
 Posisi
 Perputaran
+Pantulan
+Power
 ZHPK
 Zl
 Zf
@@ -647,6 +695,7 @@ vc
 via
 variabel
 variatif
+valid
 Im
 In
 Iu
@@ -680,6 +729,7 @@ Kamu
 Kebalikan
 Kumpulan
 Kita
+Kecepatan
 jT
 jqA
 jr
@@ -689,6 +739,7 @@ jv
 jKmn
 jadi
 jenis
+jarak
 WQ
 WiEZ
 WC
@@ -711,6 +762,7 @@ unit
 upload
 update
 up
+ultrasonik
 NI
 NC
 NJ
@@ -730,6 +782,9 @@ Tujuan
 Terang
 Terinstal
 TLDR
+Terdiri
+Transmitter
+Trigger
 XQE
 Xu
 Xd
@@ -754,6 +809,7 @@ Rd
 RJ
 Rangkaian
 Repository
+Receiver
 FA
 FUg
 Fungsi
@@ -777,6 +833,8 @@ Gunakan
 Github
 GND
 Gearbox
+Gelombang
+Ground
 Oqil
 OB
 OJw
@@ -801,6 +859,7 @@ Alih
 Analog
 ADC
 Analogi
+Aktifkan
 Lbv
 LF
 LED
@@ -809,4 +868,6 @@ LOW
 Lamanya
 Library
 Libraries
+Lama
 Untuk
+Ultrasonic
