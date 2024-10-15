@@ -43,7 +43,7 @@ ___
 	   - Terminal tempat sumber daya listrik terhubung untuk menjalankan motor dan control circuit.
 - Cara kerja:
 	- Servo menggunakan pin [[Pulse Width Modulation (PWM)]]
-	- Posisi Servo/Perputaran Servo ditentukan oleh 'lebar' sinyal HIGH dari PWM.
+	- Posisi atau sudut perputaran servo bergantung pada durasi sinyal aktif (HIGH) dari PWM. Semakin lama sinyal HIGH, semakin besar sudut perputarannya.
 - Contoh Kode:
 ```c
 #include <Servo.h>
