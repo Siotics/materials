@@ -24,13 +24,26 @@ ___
 - Sebuah jenis Motor (bukan kendaraan) yang kita bisa program atau kontrol perputarannya.
 - Servo motor biasanya bisa memutar dari 0° hingga 180°. Namun, ada Servo motor yang bisa memutar sampai 360°.
 - Digunakan dalam projek seperti robotika, untuk mengatur lengan/persendian robot.
-- Modul Servo terdiri dari:
-	- Motor DC/Motor Servo
-	- Control Circuit
+- **Mini Servo terdiri dari**:
+	- Motor DC (Motor Servo)
+	   - Mengubah energi listrik menjadi energi mekanik untuk menghasilkan gerakan.
+	   - TLDR: Yang buat muter-muter.
 	- Gearbox
+	   - Dipasang pada motor.  
+	   - Berfungsi mengurangi kecepatan motor dan meningkatkan torsi (gaya putar) supaya gerakannya lebih halus dan akurat.
+	- Potentiometer  
+	   - Sensor yang digunakan untuk mengukur posisi sudut lengan servo secara real-time.
+	   - Mengecek apakah posisi motor sudah sesuai dengan sinyal yang dikirim.
+	- Control Circuit  
+	   - Mengatur perputaran motor berdasarkan sinyal input (sinyal PWM).  
+	   - Mengontrol kecepatan, arah, dan posisi motor.
+	- Housing  
+	   - Pelindung luar yang melindungi komponen servo dari kerusakan fisik dan debu.  
+	- Power Supply Terminal  
+	   - Terminal tempat sumber daya listrik terhubung untuk menjalankan motor dan control circuit.
 - Cara kerja:
 	- Servo menggunakan pin [[Pulse Width Modulation (PWM)]]
-	- Posisi Servo/Perputaran Servo ditentukan oleh 'lebar' sinyal HIGH dari PWM.
+	- Posisi atau sudut perputaran servo bergantung pada durasi sinyal aktif (HIGH) dari PWM. Semakin lama sinyal HIGH, semakin besar sudut perputarannya.
 - Contoh Kode:
 ```c
 #include <Servo.h>
